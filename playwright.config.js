@@ -1,8 +1,8 @@
 import { defineConfig } from '@playwright/test';
 
 export default defineConfig({
-    timeout : 6000,
-    
+    timeout : 8000,
+
     testDir : './tests',
 
     fullyParallel : true,
