@@ -1,0 +1,19 @@
+{
+  "name": "31_aug_2026_orangehrm_declarative_pipeline_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0"
+  },
+  "dependencies": {
+    "allure-playwright": "^3.11.0",
+    "dotenv": "^17.4.2"
+  }
+}
